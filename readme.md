@@ -6,7 +6,7 @@ creator:
     city: DC
 ---
 
-[!](./thisisme.png)
+ ![](./thisisme.png)
 
 # Data Science Blogging
 
