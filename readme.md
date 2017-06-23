@@ -6,6 +6,8 @@ creator:
     city: DC
 ---
 
+[!](./thisisme.png)
+
 # Data Science Blogging
 
 ## Learning Objectives
