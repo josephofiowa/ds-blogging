@@ -83,7 +83,7 @@ Here's my favorite recent FB [blog post](https://code.facebook.com/posts/1587249
 
 ### Ben Shaver
 
-Ben (DSI5) regularly posts exceptional posts on Medium.
+Ben (DSI6) regularly posts exceptional posts on Medium.
 
 Let's [take a look](https://medium.com/@benpshaver.)
 
