@@ -1,12 +1,16 @@
 ---
 title: Data Science Blogging
-duration: 1hr
+duration: 2hr
 creator:
     name: Joseph Nelson
     city: DC
 ---
 
  ![](./thisisme.png)
+
+ [Twitter](https://www.twitter.com/josephofiowa)
+ [GitHub](https://github.com/josephofiowa/)
+ [Personal Site](https://www.josephofiowa.com/)
 
 # Data Science Blogging
 
