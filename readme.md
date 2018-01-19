@@ -89,7 +89,7 @@ Let's [take a look](https://medium.com/@benpshaver.)
 
 ### Ritika
 
-Ritika's (DSI3) [Medium blog](https://medium.com/@mostlyinane) and [personal site](http://http://www.datawrites.co/)
+Ritika's (DSI3) [Medium blog](https://medium.com/@mostlyinane) and [personal site](http://http://www.datawrites.co/) http://www.datawrites.co/
 
 Ritika does a great job of providing qualitative context to her projects and then linking to clean Jupyter Notebooks available on her Github. She also has a link to her Medium at the top, so that's a good place to look for blog post scope.
 
