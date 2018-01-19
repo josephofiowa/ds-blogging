@@ -17,6 +17,7 @@ Students will be able to:
 - Identify reasons why data science blogging is a strong career step (and fun!)
 - Determine what makes a good data science blog
 - Discover avenues students can pursue to produce a data science blog
+- Discuss Bootstrap and gently "mention" HTML and CSS
 
 ## Why Blog?
 
@@ -73,7 +74,14 @@ Your favorite large tech company likely maintains a blog documenting their engin
 
 Here's my favorite recent FB [blog post](https://code.facebook.com/posts/1587249151575490/a-path-to-unsupervised-learning-through-adversarial-networks/) from Yann LeCun's team.
 
-## DSI Examples
+## DSI 
+
+
+### Ben Shaver
+
+Ben (DSI5) regularly posts exceptional posts on Medium.
+
+Let's [take a look](https://medium.com/@benpshaver.)
 
 ### Ritika
 
