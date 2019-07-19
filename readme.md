@@ -113,7 +113,7 @@ Your data science blog does not need to be a Corvette. It just needs to exist. A
 
 Your blog should follow [agile development](https://pbs.twimg.com/media/B82SXypCAAAnPn5.png) principles. If you don't believe me, checkout a DSI1 student's first toe-dipping: [Cody Laminack](https://www.codylaminack.com/visualizations/). Please also checkout one of my [favorite blog posts of all time](http://blog.patchus.co.uk/2015/02/nyc-farewell.html) from Josh Patchus, Lead Data Scientist at Cava Grill.
 
-There are many avenues you can take. Let's discuss two.
+There are many avenues you can take. Let's discuss three.
 
 I would recommend starting with a service that does everything for you except the content: [Medium](https://medium.com). Medium is the go-to tech blog generation service. Wordpress is heavier than necessary for this.
 
@@ -127,7 +127,11 @@ Here's an [example](https://medium.com/@josephofiowa/auditing-the-feds-what-dete
 
 Medium does not clearly support importing code snippets. This is an admitted disadvantage.
 
-A second option (and what you should strive towards rather than bound yourself to complete!) is using a Python-based CMS like Pelican. Pelican is a Python-based static web development tool. Here's a [walkthrough](https://fedoramagazine.org/make-github-pages-blog-with-pelican/) of how to set up a Pelican blog using Github pages. Be sure to check out the [themes](https://github.com/getpelican/pelican-themes) Pelican offers.
+
+As Medium is increasingly pressured to monetize their platform, the UX has suffered. Thus, a potential second option is [Ghost](https://ghost.org/). Ghost provides a sleek [Medium alternative](https://ghost.org/vs/medium/) including well-laid out content and analytics on all reads. You control your own content and use Ghost as a CMS for managing it. The tradeoff, however, is you must pay to host your Ghost blog, like on a [Digital Ocean droplet](https://marketplace.digitalocean.com/apps/ghost), or [paying Ghost](https://ghost.org/pricing/) to host it for you. (I am migrating my content from Medium to Ghost)
+
+
+A third option option (and what you should strive towards rather than bound yourself to complete!) is using a Python-based CMS like Pelican. Pelican is a Python-based static web development tool. Here's a [walkthrough](https://fedoramagazine.org/make-github-pages-blog-with-pelican/) of how to set up a Pelican blog using Github pages. Be sure to check out the [themes](https://github.com/getpelican/pelican-themes) Pelican offers.
 
 
 Be cautious: do not bound yourself to needing to engage in Python web development right now. You may make the perfect the enemy of the good!
