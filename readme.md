@@ -6,7 +6,7 @@ creator:
     city: DC
 ---
 
- ![](./thisisme.png)
+ ![](./thisisme_@josephofiowa.png)
 
  [Twitter](https://www.twitter.com/josephofiowa)
  [GitHub](https://github.com/josephofiowa/)
